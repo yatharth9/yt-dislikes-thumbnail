@@ -1,7 +1,7 @@
 # yt-dislikes-thumbnail
 
-### README in the works. 
-Important links: 
+## Important links: 
+
 [Google Developers: Youtube V3 response](https://developers.google.com/youtube/v3/docs/search/list#response)<br>
 [Google Developers: Youtube V3 getting started](https://developers.google.com/youtube/v3/getting-started?hl=en_US)<br>
 [Github: ForrestKnight/yt-dislikes](https://github.com/ForrestKnight/yt-dislikes)<br>
