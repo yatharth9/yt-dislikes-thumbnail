@@ -55,5 +55,7 @@ After the code is written, to execute the app, you need to allow it access to yo
 ### Step 8: Seeing the change reflected
 Now, you can see the thumbnails on your Youtube videos being updated with the likes, dislikes and ratio.
 
+![In action](Demo.png)
+
 ### Note:
 This code will only work for the Public videos on your channel, and it will not work for unlisted or Private videos.
