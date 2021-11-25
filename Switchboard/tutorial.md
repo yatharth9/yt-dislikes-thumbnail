@@ -47,6 +47,8 @@ For this, we refer to the names and types of input in setting up of the template
 #### C: Pushing the thumbnail to Youtube
 After saving the image on local storage, we again use the Youtube API, and push the image to be the thumbnail.
 
+The code can be found [here](https://github.com/yatharth9/yt-dislikes-thumbnail/blob/main/Switchboard/ThumbnailUpdate.py)
+
 ### Step 7: Putting the Authentication
 After the code is written, to execute the app, you need to allow it access to your data. Your code will output a link to the output, which when opened in a browser will ask you if you want to allow the app access to your data. After accepting, you will have to copy the code shown in the browser, and paste it into the terminal.
 
