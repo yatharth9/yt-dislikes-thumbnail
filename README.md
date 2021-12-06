@@ -1,5 +1,5 @@
 # yt-dislikes-thumbnail
-This recreates the like Dislike counter for your YouTube videos in the form of thumbnails. It fetches the data from YouTube, created the thumbnail, and updates it.
+This recreates the like Dislike counter for your YouTube videos in the form of thumbnails. It fetches the data from YouTube, creates the thumbnail, and updates it.
 
 ## Important links: 
 
